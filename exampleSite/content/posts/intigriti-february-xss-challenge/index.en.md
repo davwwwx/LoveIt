@@ -1,8 +1,8 @@
 ---
 weight: 4
 title: "Intigriti's February XSS Challenge Writeup"
-date: 2021-02-21T16:00:00+04:00
-lastmod: 2021-02-21T16:00:00+04:00
+date: 2021-02-22T00:00:00+04:00
+lastmod: 2021-02-22T00:00:00+04:00
 draft: false
 author: "Davwwwx"
 authorLink: "/about"
