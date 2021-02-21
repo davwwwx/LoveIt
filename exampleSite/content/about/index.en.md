@@ -6,22 +6,6 @@ draft: false
 ---
 
 
-
-          ----------
-        < Hi there !!>
-          ----------
-               \
-                \
-                /\\--/\\
-               {((@)(@))}
-                \\..< ../
-                / UWUW|;;\\
-                | WUWU|\;;;|
-                | UWUWU\\;;|
-                 \\ UWUWU\\;/
-        -~-~-~-~-~-(((-~-)))~-~
-          -~-~-~-~-~-~-~-~-~-~-
-
 ###### poke
 
 * :(fab fa-telegram fa-fw): **Telegram [@davwwwx](https://t.me/davwwwx)**

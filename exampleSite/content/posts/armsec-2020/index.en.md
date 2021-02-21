@@ -24,7 +24,7 @@ At this year's Armsec seventh annual information security conference - [reARMSEC
 <!--more-->
 
 
-XSS (Cache Deception): 
+XSS (Cache Poisoning): 
 - [HackerOne report #394016, XSS on Discourse](https://hackerone.com/reports/394016) by [Sergey Bobrov](https://twitter.com/black2fan)
 - [HackerOne report #415168, XSS on QIWI](https://hackerone.com/reports/415168) by [Sergey Bobrov](https://twitter.com/black2fan)
 
@@ -81,4 +81,4 @@ To learn more (I'll try to update this list constantly):
 - Writeups - [HackerOne's Hacktivity](https://hackerone.com/hacktivity), [bugcrowd's CrowdStream](https://bugcrowd.com/crowdstream), [CTFtime.org writeups](https://ctftime.org/writeups)
 - Labs - [PortSwigger Web Security Academy](https://portswigger.net/web-security), [TryHackMe](https://tryhackme.com/), [hackxor](https://hackxor.net/), [OverTheWire: Wargames](https://overthewire.org/wargames/)
 
-Follow these twitter accounts - [https://twitter.com/davwwwx/following](https://twitter.com/davwwwx/following)
+Follow these people/pages - [https://twitter.com/davwwwx/following](https://twitter.com/davwwwx/following)
